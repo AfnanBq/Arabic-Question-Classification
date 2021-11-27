@@ -5,7 +5,7 @@
 * [Results](#results)
 * [Technologies](#technologies)
 * [Setup](#setup)
-* [Contact](#contact)
+* [Contact us](#contact-us)
 * [Sources](#sources)
 
 ## Introduction
@@ -21,7 +21,7 @@ We created this project to achieve the requirements of AI-Topics course, in this
 
 ## Contact
 * Afnan Qalas - http://linkedin.com/in/afnanbalghaith
-
+* Zarah Shibli - https://www.linkedin.com/in/zarah-shibli
 
 ## Sources
 This project is inspired by 
