@@ -13,8 +13,10 @@ Question Answer System is one of the interesting applications of the Natural Lan
 
 ## Results
 ![alt text](https://github.com/AfnanBq/Arabic-Question-Classification/blob/master/results.png?raw=true)
+
 ## Technologies
 * python 
+* Jupyter Notebook
 * gensim 
 * matplotlib 
 * numpy 
